@@ -1,0 +1,14 @@
+F:\Last\BobSystem.Controls\Test\obj\Debug\ResolveAssemblyReference.cache
+F:\Last\BobSystem.Controls\Test\bin\Test.dll
+F:\Last\BobSystem.Controls\Test\bin\Test.pdb
+F:\Last\BobSystem.Controls\Test\bin\BobSystem.Controls.dll
+F:\Last\BobSystem.Controls\Test\bin\BobSystem.Controls.pdb
+F:\Last\BobSystem.Controls\Test\obj\Debug\Test.dll
+F:\Last\BobSystem.Controls\Test\obj\Debug\Test.pdb
+F:\git-repository\little-.net-controls-extend\BobSystem.Controls\Test\bin\Test.dll
+F:\git-repository\little-.net-controls-extend\BobSystem.Controls\Test\bin\Test.pdb
+F:\git-repository\little-.net-controls-extend\BobSystem.Controls\Test\bin\BobSystem.Controls.dll
+F:\git-repository\little-.net-controls-extend\BobSystem.Controls\Test\bin\BobSystem.Controls.pdb
+F:\git-repository\little-.net-controls-extend\BobSystem.Controls\Test\obj\Debug\ResolveAssemblyReference.cache
+F:\git-repository\little-.net-controls-extend\BobSystem.Controls\Test\obj\Debug\Test.dll
+F:\git-repository\little-.net-controls-extend\BobSystem.Controls\Test\obj\Debug\Test.pdb

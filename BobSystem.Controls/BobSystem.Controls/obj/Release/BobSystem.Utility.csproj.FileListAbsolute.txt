@@ -1,0 +1,5 @@
+F:\Last\BobSystem.Utility\BobSystem.Utility\obj\Release\ResolveAssemblyReference.cache
+F:\Last\BobSystem.Utility\BobSystem.Utility\bin\BobSystem.Utility.dll
+F:\Last\BobSystem.Utility\BobSystem.Utility\bin\BobSystem.Utility.pdb
+F:\Last\BobSystem.Utility\BobSystem.Utility\obj\Release\BobSystem.Utility.dll
+F:\Last\BobSystem.Utility\BobSystem.Utility\obj\Release\BobSystem.Utility.pdb
