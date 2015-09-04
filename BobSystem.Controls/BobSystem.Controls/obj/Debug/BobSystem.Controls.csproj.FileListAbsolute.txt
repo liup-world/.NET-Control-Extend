@@ -1,0 +1,7 @@
+F:\ForLearning\BobSystem.Controls\BobSystem.Controls\obj\Debug\BobSystem.Controls.EditableComboBox.resources
+F:\ForLearning\BobSystem.Controls\BobSystem.Controls\obj\Debug\BobSystem.Controls.csproj.GenerateResource.Cache
+F:\ForLearning\BobSystem.Controls\BobSystem.Controls\bin\Debug\BobSystem.Controls.dll
+F:\ForLearning\BobSystem.Controls\BobSystem.Controls\bin\Debug\BobSystem.Controls.pdb
+F:\ForLearning\BobSystem.Controls\BobSystem.Controls\bin\Debug\BobSystem.Controls.tlb
+F:\ForLearning\BobSystem.Controls\BobSystem.Controls\obj\Debug\BobSystem.Controls.dll
+F:\ForLearning\BobSystem.Controls\BobSystem.Controls\obj\Debug\BobSystem.Controls.pdb

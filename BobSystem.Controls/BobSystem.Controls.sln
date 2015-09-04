@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BobSystem.Controls", "BobSystem.Controls\BobSystem.Controls.csproj", "{04439563-A904-4AD2-8D85-C72CDF0477BA}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "BobControls.Setup", "BobControls.Setup\BobControls.Setup.vdproj", "{1E527952-A21E-425F-96E6-1C0516A68A6E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{04439563-A904-4AD2-8D85-C72CDF0477BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{04439563-A904-4AD2-8D85-C72CDF0477BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{04439563-A904-4AD2-8D85-C72CDF0477BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{04439563-A904-4AD2-8D85-C72CDF0477BA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1E527952-A21E-425F-96E6-1C0516A68A6E}.Debug|Any CPU.ActiveCfg = Debug
+		{1E527952-A21E-425F-96E6-1C0516A68A6E}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,12 @@
+[version]  
+signature="$CHICAGO$" 
+AdvancedINF=2.0 
+
+[Setup Hooks] 
+HOOKRUN1=HOOKRUN1 
+
+[Deployment]  
+InstallScope=user 
+
+[HOOKRUN1]  
+run=%EXTRACT_DIR%\run.bat
